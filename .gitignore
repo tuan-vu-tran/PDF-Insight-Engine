@@ -1,0 +1,14 @@
+# Ne pas envoyer l'environnement virtuel
+venv/
+.env
+
+# Ne pas envoyer les fichiers de données (PDF)
+data/
+*.pdf
+
+# Ne pas envoyer les bases de données vectorielles
+chroma_db/
+
+# Fichiers système
+.DS_Store
+__pycache__/
