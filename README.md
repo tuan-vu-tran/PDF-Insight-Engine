@@ -5,3 +5,4 @@
 - Day 4 : Chatbot RAG complet avec Gradio et Memory
 - Day 5 : Fiabilisation du Prompt et Maîtrise du Contexte
 - Day 6 : Optimisation du RAG et Nettoyage de la Mémoire
+- Day 7: Déploiement, UX et Finalisation du Produit
