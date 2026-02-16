@@ -6,3 +6,10 @@
 - Day 5 : Fiabilisation du Prompt et Maîtrise du Contexte
 - Day 6 : Optimisation du RAG et Nettoyage de la Mémoire
 - Day 7: Déploiement, UX et Finalisation du Produit
+
+
+# Compétences Acquises:
+- Maîtrise du framework LangChain.
+- Manipulation de bases de données vectorielles (ChromaDB).
+- Design d'interfaces IA avec Gradio.
+- Optimisation des coûts et de la mémoire (Gestion des ressources système).
