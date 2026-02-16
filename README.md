@@ -8,7 +8,7 @@
 - Day 7: Déploiement, UX et Finalisation du Produit
 
 
-# Compétences Acquises:
+# Compétences Acquises
 - Maîtrise du framework LangChain.
 - Manipulation de bases de données vectorielles (ChromaDB).
 - Design d'interfaces IA avec Gradio.
